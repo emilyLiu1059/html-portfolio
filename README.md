@@ -1,6 +1,7 @@
 # webdev
 Helper site:
 - [https://htmlcheatsheet.com/](https://htmlcheatsheet.com/js/)
+- https://developer.mozilla.org/en-US/docs/Learn/HTML/Cheatsheet
 
   
 Learning:
