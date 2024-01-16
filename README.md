@@ -1,6 +1,6 @@
 # webdev
 Helper site:
-- https://htmlcheatsheet.com/
+- [https://htmlcheatsheet.com/](https://htmlcheatsheet.com/js/)
 
   
 Learning:
