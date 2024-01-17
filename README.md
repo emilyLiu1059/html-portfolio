@@ -2,6 +2,7 @@
 Helper site:
 - [https://htmlcheatsheet.com/](https://htmlcheatsheet.com/js/)
 - https://developer.mozilla.org/en-US/docs/Learn/HTML/Cheatsheet
+- https://www.w3schools.com/tags/tag_q.asp
 
   
 Web Page created during the learning:
