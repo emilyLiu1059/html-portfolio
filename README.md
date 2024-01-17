@@ -4,7 +4,7 @@ Helper site:
 - https://developer.mozilla.org/en-US/docs/Learn/HTML/Cheatsheet
 
   
-Learning:
+Web Page created during the learning:
 - https://emilyliu1059.github.io/webdev/html/
 - https://emilyliu1059.github.io/webdev/css-flag/
 - https://emilyliu1059.github.io/webdev/css-flexbox/
