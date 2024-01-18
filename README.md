@@ -12,5 +12,7 @@ Web Page created during the learning:
 - https://emilyliu1059.github.io/webdev/css-mondrian/
 - https://emilyliu1059.github.io/webdev/css-tindog/
 - https://emilyliu1059.github.io/webdev/css-webdesign/
-  
+- https://emilyliu1059.github.io/webdev/javascript-dicee/
+- https://emilyliu1059.github.io/webdev/javascript-drum/
+- https://emilyliu1059.github.io/webdev/jquery-simon/
 
